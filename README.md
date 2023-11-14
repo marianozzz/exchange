@@ -1,2 +1,3 @@
 # exchange
-Cotizacion de monedas en tiempo real Dolar Euro
+Cotizacion de divisas en tiempo real Dolar Euro
+https://dolarapi.com/docs/
